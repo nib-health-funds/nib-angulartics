@@ -1,6 +1,6 @@
 {
   "name": "nib-angulartics",
-  "version": "0.16.3",
+  "version": "0.16.4",
   "main": "index.js",
   "description": "A bower repository to hold angulartics used by nib"
 }
